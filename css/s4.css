@@ -1,0 +1,36 @@
+body{
+    background-color: aliceblue;
+    color: darkslategrey;
+    margin: 5px;
+    padding: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header,
+footer{
+text-align: center;
+background-color: bisque;
+}
+p{
+    text-align: justify;
+    text-indent: 8ch;
+}
+h2{
+    color: crimson;
+    background-color: bisque;
+    text-decoration-line: underline;
+    text-indent: 8ch;
+    text-align: left;
+}
+h3,
+footer{
+    color: crimson;
+    background-color: bisque;
+    text-decoration-line: underline;
+    text-indent: 8ch;
+text-align: center;
+
+}
+    main{
+        text-align: right;
+        text-align: justify;
+    }

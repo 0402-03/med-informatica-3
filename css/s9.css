@@ -1,0 +1,18 @@
+.myimage-div
+{  
+ display: none;
+}
+{
+a.myimage-ssilka:hover+div
+}
+{
+display:block;
+}
+aside{
+    background-color: azure;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 18%;
+    height: 500px;
+}

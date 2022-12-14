@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+    color: darkslategrey;
+    margin: 5px;
+    padding: 2px;
+}
+h2,h3,h4
+footer{
+    color: crimson;
+    text-align: right;
+    background-color: bisque;
+    text-decoration-line: underline;
+}
+    main{
+        text-align: right;
+    }
